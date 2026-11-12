@@ -1,0 +1,6 @@
+{
+  "name": "Báo Cáo Ca Sản Xuất - Line Leader",
+  "description": "Ứng dụng nhập và quản lý chỉ số điểm danh nhân sự (HC) và hiệu suất sản xuất (EFF) dành cho Line Leader",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
